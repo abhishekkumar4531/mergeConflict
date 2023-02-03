@@ -1,2 +1,2 @@
-Hello from demo1 branch. Hii from Abhi repository. Now it is not going to be merged with main branch. This changes is also updated on local repository. Again editing this file.
+Hello from demo1 branch. Now it is not going to be merged with main branch. This changes is also updated on local repository. Again editing this file.
 
