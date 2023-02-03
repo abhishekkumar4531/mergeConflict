@@ -1,2 +1,1 @@
-Hello from demo1 branch. This line is added by Diwakar again.Now it is not going to be merged with main branch. This changes is also updated on local repository. Again editing this file.
-
+Hello from demo1 branch. Now it is not going to be merged with main branch. This changes is also updated on local repository. Again editing this file.
