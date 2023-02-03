@@ -1,1 +1,1 @@
-Hello from demo1 branch. Now it is merged with main branch.
+Hello from demo1 branch. Now it is merged with main branch. This changes is also updated on local repository.
